@@ -2,7 +2,7 @@
 
 # Setup
 title:               Franco
-tagline:             'una libreta de notas'
+tagline:             'Una libreta de notas'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/franco'
